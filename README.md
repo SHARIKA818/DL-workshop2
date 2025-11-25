@@ -1,7 +1,7 @@
 # Building-an-AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch
-#Aim:
+# Aim:
 Your goal is to build an image classification model using transfer learning in PyTorch to predict whether an image belongs to a cat, dog, or panda.
-#Program:
+# Program:
 ```python
 import os
 import torch
@@ -153,8 +153,8 @@ print("\nTest Accuracy:", correct / total)
 print("Test Loss:", test_loss / len(test_loader))
 print("Model saved as:", CHECKPOINT_PATH)
 ```
-#Output:
+# Output:
 <img width="679" height="699" alt="image" src="https://github.com/user-attachments/assets/e9fb95a7-0aaa-405f-b649-6b099040620c" />
 
-#Result:
+# Result:
 Thus image classification model using transfer learning in PyTorch to predict whether an image belongs to a cat, dog, or panda is implemented successfully.
